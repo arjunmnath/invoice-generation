@@ -1,0 +1,42 @@
+{
+  "1111": {
+    "name": "Acc Cement",
+    "rate": 440
+  },
+  "1112": {
+      "name": "Dalmia Cement",
+      "rate": 400
+  },
+  "1113": {
+      "name": "Penna Cement",
+      "rate": 380
+  },
+  "1114": {
+      "name": "Diamond Cement",
+      "rate": 350
+  },
+  "1115": {
+      "name": "Chettinad Cement",
+      "rate": 360
+  },
+  "1116": {
+      "name": "6ft Asbestos Sheet",
+      "rate": 430
+  },
+  "1117": {
+      "name": "8ft Asbestos Sheet",
+      "rate": 530
+  },
+  "1118": {
+      "name": "10ft Asbestos Sheet",
+      "rate": 630
+  },
+  "1119": {
+      "name": "6ft 4mm Asbestos Sheet",
+      "rate": 520
+  },
+  "1120": {
+      "name": "6ft 6mm Asbestos Sheet",
+      "rate": 620
+  }
+}

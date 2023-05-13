@@ -1,0 +1,17 @@
+{
+    "shopName": "R.R Traders",
+    "subShopInfo": "Cement & Asbestos Sheet",
+    "shopAddress": [
+        "Alathur Road, Pazhayannur",
+        "Thrissur",
+        "680587"
+    ],
+    "gstIn": "32AADFR5080NIZ",
+    "phoneNo": "9446146363",
+    "mobileNo": "8848796241",
+    "qrContent": "https://rr-invoicegen.herokuapp.com/",
+    "invoiceNo": [
+        "A",
+        "1185"
+    ]
+}
